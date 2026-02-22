@@ -1,0 +1,5 @@
+.env
+__pycache__/
+*.pyc
+generated_code.py
+*_test.py
